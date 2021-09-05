@@ -1,1 +1,1 @@
-# A CPU emulator for the CHIP-8 architecture
+# An emulator for the CHIP-8 architecture
